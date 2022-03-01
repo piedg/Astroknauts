@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - EnemyBullet
+  - Enemy
+  - Medikit
+  - FiringRatePowerUp
+  - MoveSpeedPowerUp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Walls
+  - Bullet
+  - Floor
+  - Player
+  - Enemy
+  - EnemyBullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 480690019
+    locked: 0
+  - name: Enemy
+    uniqueID: 218495661
+    locked: 0
+  - name: Bullets
+    uniqueID: 4089419761
+    locked: 0
+  - name: Player
+    uniqueID: 181046151
+    locked: 0
+  - name: Flying
+    uniqueID: 2102572821
+    locked: 0
